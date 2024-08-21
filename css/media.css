@@ -1,0 +1,19 @@
+@media screen and (min-width: 480px){
+    /* Styles for mobile devices go here */
+    body {
+      font-size: 140px !important;
+      color: black;
+    }
+    video {
+      height: 50vh; /* Adjust video height for mobile devices */
+    }
+    input.log-button {
+      padding: 15px; /* Increase padding for better tap targets */
+    }
+    input.in-put {
+      padding: 10px; /* Increase padding for better tap targets */
+    }
+    .notice{
+        color: green;
+    }
+}
